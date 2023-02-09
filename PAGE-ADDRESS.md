@@ -1,10 +1,10 @@
 Put the address to your website here. Use this markdown format:
 
 ```bash
-[display-name](link)
+[Zaid's-Website]()
 ```
 
 example:
 ```bash
-[my website](https://rick-astley.github.io)
+[my website](https://bigz88.github.io)
 ```
